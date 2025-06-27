@@ -1,5 +1,6 @@
 📌 Problem: Maximum Product Subarray
-
+link:
+https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/0/
 🔗 Description:
 You are given an array arr[] containing positive, negative, and zero integers.
 
